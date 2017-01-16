@@ -1,0 +1,15 @@
+{
+  "name": "broccoli-change-tracking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stefanpenner/broccoli-change-tracking",
+  "author": "Stefan Penner <stefan.penner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-builder": "^0.18.3",
+    "broccoli-funnel": "broccolijs/broccoli-funnel#wip",
+    "broccoli-merge-trees": "broccolijs/broccoli-merge-trees#wip",
+    "broccoli-stew": "^1.4.0",
+    "fixturify": "^0.3.2"
+  }
+}
